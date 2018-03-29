@@ -25,6 +25,6 @@ public class HomeworkThree {
             default:
                 System.out.println("Число не указано");
         }
-        System.out.println(resultSum);
+        System.out.println(String.format("%(.2f",resultSum));
     }
 }
