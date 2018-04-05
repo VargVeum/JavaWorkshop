@@ -1,4 +1,4 @@
-package Workshop_one;
+package FirstLesson;
 
 import java.util.Scanner;
 
